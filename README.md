@@ -1,2 +1,0 @@
-# smart_security_home_sdk_doc_android
-安防安卓对外SDK
